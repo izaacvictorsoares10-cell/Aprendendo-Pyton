@@ -4,3 +4,7 @@
 
 ### Programando em Python
 - Variáveis
+- Tipos de Dados
+  - int
+  - string
+  
