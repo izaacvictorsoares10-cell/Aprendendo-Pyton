@@ -9,5 +9,5 @@
   - string
   - float
   - boolean
-    
+  - Izaac Vic
   
