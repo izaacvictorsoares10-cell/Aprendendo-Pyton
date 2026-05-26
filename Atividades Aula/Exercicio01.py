@@ -1,7 +1,7 @@
 numerosLista = []
 
 for i in range(6):
-    numero = int(input(f"Digite o {i +1}° numero: "))
+    numero = int(input(f"Digite o {i + 1}° numero: "))
     numerosLista.append(numero)
 
 numerosLista.sort()
