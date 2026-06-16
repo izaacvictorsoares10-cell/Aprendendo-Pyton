@@ -16,6 +16,7 @@ while continuar == "s":
                 continue
             else:
                 estoque[chave] -= int(quantidade)
+
                 atualiza_estoque = True
     if atualiza_estoque:
         print("Estoque Atualizado")
